@@ -1,6 +1,6 @@
 public class BankTest {
     public static void main(String[] args) {
-        SavingsAccount dollar = new SavingsAccount("christ",04476541,100.00,);
+        SavingsAccount dollar = new SavingsAccount("christ",04476541,100.00);
         System.out.println(dollar.toString());
 
         dollar.lodge(300);

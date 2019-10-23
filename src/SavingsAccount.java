@@ -1,4 +1,5 @@
 public class SavingsAccount extends BankAccount {
+
     private double balance;
 
     public SavingsAccount(){
